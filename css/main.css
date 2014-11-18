@@ -15,3 +15,9 @@ body {
 form input[name='occupationOther'] {
     display: none;
 }
+
+#zipMessage {
+	position: absolute;
+	right: -100px;
+	bottom: 20px;
+}
